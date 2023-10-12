@@ -14,3 +14,6 @@
 This script is designed to rename the bins in a CheckM file. It is perfect for SqueezeMeta (v1.6.2post3) table 17.*.checkM located in intermediate folder.
 Now you can concatenate all the files you want without having repeated names for different bins. 
 You will need a files.txt (with the files you want to change) and samples.txt (with the names of the samples or the names you want to put in your new bins).
+
+
+### METER LOS SCRIPTS DE FUNCIONES PARA SQUEEZEMETA

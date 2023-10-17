@@ -15,5 +15,7 @@ This script is designed to rename the bins in a CheckM file. It is perfect for S
 Now you can concatenate all the files you want without having repeated names for different bins. 
 You will need a files.txt (with the files you want to change) and samples.txt (with the names of the samples or the names you want to put in your new bins).
 
+### [01. Rmv_bad_bins.sh](https://github.com/AliciaGR5/Metagenomics_on_the_verge_of_a_nervous_breakdown/blob/main/02.%20Rmv_bad_bins.sh)
+This script is designed to play with lists of bins and write the perfect file for working with [mOTUlizer](https://github.com/moritzbuck/mOTUlizer).
 
 ### METER LOS SCRIPTS DE FUNCIONES PARA SQUEEZEMETA

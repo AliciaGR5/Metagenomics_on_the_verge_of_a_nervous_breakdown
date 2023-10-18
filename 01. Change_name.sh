@@ -35,5 +35,5 @@ done
 
 # If you want to concatenate the files obtained
 
-# cat *_var.checkM > allbins_var.checkM
+cat *_var.checkM > allbins_var.checkM
 

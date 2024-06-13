@@ -30,7 +30,7 @@ wc -l ~/data/BINS/cool_bins.txt
 
 # Before that, we should do
 
-ls > everybin.txt # We obtain a list of the bins in the temp folder (those that have and don't hace quality values)
+ls > everybin.txt # We obtain a list of the bins in the temp folder (those that have and don't have quality values)
 cut -d"." --complement -f5-  everybin.txt > everybin_var.txt # Delete the .f extension (we separate by dots, so we don't want the fifth column)
 
 grep "^22IC" allbins_var_SQM.checkM > allbins_names.txt # We obtain a list with the bins from table 17 of SqueezeMeta (it was a checkm file so we only need the names)

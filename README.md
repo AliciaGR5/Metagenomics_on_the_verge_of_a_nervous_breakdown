@@ -27,6 +27,6 @@ It is perfect for SqueezeMeta (v1.6.2post3) SQM_project/results/bins folder.
 
 You will need a directory.txt (with the names of the directory) and a samples.txt (with the names of the samples or the names you want to put as a prefix in your new bins)
 
+===========================================================================
 
 
-### METER LOS SCRIPTS DE FUNCIONES PARA SQUEEZEMETA

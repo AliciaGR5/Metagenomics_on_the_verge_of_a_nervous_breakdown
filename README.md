@@ -10,6 +10,12 @@
 
 ===========================================================================
 
+**'Altruistic' cooperation among the prokaryotic community of Atlantic salterns assessed by metagenomics.**   
+García-Roldán A, de la Haba RR, Sánchez-Porro C, Ventosa A. (2024). 
+Microbiol Res. 288:127869. [doi: 10.1016/j.micres.2024.127869](https://www.sciencedirect.com/science/article/pii/S0944501324002702?via%3Dihub)
+
+===========================================================================
+
 ### [01. Change_name.sh](https://github.com/AliciaGR5/Metagenomics_on_the_verge_of_a_nervous_breakdown/blob/main/01.%20Change_name.sh)
 This script is designed to rename the bins in a CheckM file. It is perfect for SqueezeMeta (v1.6.2post3) table 17.*.checkM located in intermediate folder.
 Now you can concatenate all the files you want without having repeated names for different bins. 

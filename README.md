@@ -29,5 +29,33 @@ You will need a directory.txt (with the names of the directory) and a samples.tx
 
 ===========================================================================
 
+Now you have your lovely bins...what can you do?? Maybe you should look for _important genes_...why? Maybe we find an important bin that does something cool, or maybe we find a relationship in the community...
+
+_Remember: Nature is always singing "With a little help from my friends"_
+
+Let's look for:
+
 ### [05. Biotin_synthesis_Job1.R](https://github.com/AliciaGR5/Metagenomics_on_the_verge_of_a_nervous_breakdown/blob/main/05.%20Biotin_synthesis_Job1.R)
+
+Biotin synthesis genes
+
+### [06. Biotin_extragenes_Job1.R](https://github.com/AliciaGR5/Metagenomics_on_the_verge_of_a_nervous_breakdown/blob/main/06.%20Biotin_extragenes_Job1.R)
+
+Biotin synthesis genes and more...
+
+### [07. Biotin_transporters_Job1.R](https://github.com/AliciaGR5/Metagenomics_on_the_verge_of_a_nervous_breakdown/blob/main/07.%20Biotin_transporters_Job1.R)
+
+Biotin transporters genes
+
+### [08. Bcarotene_synthesis_Job1.R](https://github.com/AliciaGR5/Metagenomics_on_the_verge_of_a_nervous_breakdown/blob/main/08.%20Bcarotene_synthesis_Job1.R)
+
+β-carotene synthesis genes
+
+### [09. Bacterioruberin_synthesis_Job1.R](https://github.com/AliciaGR5/Metagenomics_on_the_verge_of_a_nervous_breakdown/blob/main/09.%20Bacterioruberin_synthesis_Job1.R)
+
+Bacterioruberin synthesis genes
+
+### [10. Bcarotene_Bacterioruberin_synthesis_Job1.R](https://github.com/AliciaGR5/Metagenomics_on_the_verge_of_a_nervous_breakdown/blob/main/10.%20Bcarotene_Bacterioruberin_synthesis_Job1.R)
+
+β-carotene and bacterioruberin synthesis genes
 

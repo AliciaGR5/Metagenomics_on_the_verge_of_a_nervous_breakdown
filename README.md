@@ -1,7 +1,7 @@
 # Metagenomics_on_the_verge_of_a_nervous_breakdown
 
 <div align="center">
-  <img width="1599" height="178" alt="image" src="https://github.com/user-attachments/assets/211f3591-4119-4899-ab31-0f5e369803b6" />
+  <img width="1599" height="157" alt="image" src="https://github.com/user-attachments/assets/67af1113-cbdf-4d49-90ce-8104c3e61677" />
 </div>
 
 #### By Alicia Garcia-Roldan

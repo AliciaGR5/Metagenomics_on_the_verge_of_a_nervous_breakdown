@@ -1,4 +1,9 @@
 # Metagenomics_on_the_verge_of_a_nervous_breakdown
+
+<div align="center">
+  <img width="1600" height="159" alt="image" src="https://github.com/user-attachments/assets/67b9678d-8176-49bc-a525-fe0193e22789" />
+</div>
+
 #### By Alicia Garcia-Roldan
 :tropical_drink: Drink this gazpacho, and you'll understand metagenomics in a second :tropical_drink:
 

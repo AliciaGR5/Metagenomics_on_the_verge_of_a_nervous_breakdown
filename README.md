@@ -4,7 +4,7 @@
   <img width="1599" height="157" alt="image" src="https://github.com/user-attachments/assets/67af1113-cbdf-4d49-90ce-8104c3e61677" />
 </div>
 
-#### By Alicia Garcia-Roldan
+#### By Alicia García-Roldán
 :tropical_drink: Drink this gazpacho, and you'll understand metagenomics in a second :tropical_drink:
 
 ===========================================================================

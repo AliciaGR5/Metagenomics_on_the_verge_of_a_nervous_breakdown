@@ -5,7 +5,7 @@
 </div>
 
 #### By Alicia Garcia-Roldan
-:tropical_drink: Drink this gazpacho, and you'll understand metagenomics in a second :tropical_drink:
+:tropical_drink: Drink this _gazpacho_, and you'll understand metagenomics in a second :tropical_drink:
 
 ===========================================================================
 

@@ -12,6 +12,7 @@
 **IMPORTANT INFORMATION:** These scripts are for:
   + SqueezeMeta v.1.6.2post3 
   + Bash v.4.4.20
+  + R v.3.6.3 (2020-02-29) and v.4.1.2 (2021-11-01)
 
 ===========================================================================
 

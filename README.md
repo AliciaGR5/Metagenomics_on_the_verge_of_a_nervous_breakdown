@@ -71,7 +71,7 @@ Bacterioruberin synthesis genes
 
 ### [10. Bcarot_rub_synth.R](https://github.com/AliciaGR5/Metagenomics_on_the_verge_of_a_nervous_breakdown/blob/main/09.%20Bcarot_rub_synth.R)
 
-β-carotene and bacterioruberin synthesis genes <br><br>
+β-carotene and bacterioruberin synthesis genes
 
 ===========================================================================
 

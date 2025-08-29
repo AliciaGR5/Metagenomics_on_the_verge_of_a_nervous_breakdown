@@ -47,27 +47,27 @@ _Remember: Nature is always singing "With a little help from my friends"_
 
 Let's look for:
 
-### [04. Biotin_synthesis_Job1.R](https://github.com/AliciaGR5/Metagenomics_on_the_verge_of_a_nervous_breakdown/blob/main/05.%20Biotin_synthesis_Job1.R)
+### [04. Biotin_synthesis.R](https://github.com/AliciaGR5/Metagenomics_on_the_verge_of_a_nervous_breakdown/blob/main/04.%20Biotin_synthesis.R)
 
 Biotin synthesis genes
 
-### [06. Biotin_extragenes_Job1.R](https://github.com/AliciaGR5/Metagenomics_on_the_verge_of_a_nervous_breakdown/blob/main/06.%20Biotin_extragenes_Job1.R)
+### [06. Biotin_extragenes.R](https://github.com/AliciaGR5/Metagenomics_on_the_verge_of_a_nervous_breakdown/blob/main/05.%20Biotin_extragenes.R)
 
 Biotin synthesis genes and more...
 
-### [07. Biotin_transporters_Job1.R](https://github.com/AliciaGR5/Metagenomics_on_the_verge_of_a_nervous_breakdown/blob/main/07.%20Biotin_transporters_Job1.R)
+### [07. Biotin_transporters.R](https://github.com/AliciaGR5/Metagenomics_on_the_verge_of_a_nervous_breakdown/blob/main/06.%20Biotin_transporters.R)
 
 Biotin transporters genes
 
-### [08. Bcarotene_synthesis_Job1.R](https://github.com/AliciaGR5/Metagenomics_on_the_verge_of_a_nervous_breakdown/blob/main/08.%20Bcarotene_synthesis_Job1.R)
+### [08. Bcarotene_synthesis.R](https://github.com/AliciaGR5/Metagenomics_on_the_verge_of_a_nervous_breakdown/blob/main/07.%20Bcarotene_synthesis.R)
 
 β-carotene synthesis genes
 
-### [09. Bacterioruberin_synthesis_Job1.R](https://github.com/AliciaGR5/Metagenomics_on_the_verge_of_a_nervous_breakdown/blob/main/09.%20Bacterioruberin_synthesis_Job1.R)
+### [09. Bactrub_synth.R](https://github.com/AliciaGR5/Metagenomics_on_the_verge_of_a_nervous_breakdown/blob/main/08.%20Bactrub_synth.R)
 
 Bacterioruberin synthesis genes
 
-### [10. Bcarotene_Bacterioruberin_synthesis_Job1.R](https://github.com/AliciaGR5/Metagenomics_on_the_verge_of_a_nervous_breakdown/blob/main/10.%20Bcarotene_Bacterioruberin_synthesis_Job1.R)
+### [10. Bcarot_rub_synth.R](https://github.com/AliciaGR5/Metagenomics_on_the_verge_of_a_nervous_breakdown/blob/main/09.%20Bcarot_rub_synth.R)
 
 β-carotene and bacterioruberin synthesis genes
 

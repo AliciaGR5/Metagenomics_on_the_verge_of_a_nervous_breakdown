@@ -77,5 +77,9 @@ Bacterioruberin synthesis genes
 
 All plots will look like something similar to this:
 
+<div align="center">
+  
 <img src="https://github.com/user-attachments/assets/c6ac05ca-c85f-467d-816f-f68fed80736e" width="400"/>
+
+</div>
 

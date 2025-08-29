@@ -20,7 +20,7 @@
 García-Roldán A, de la Haba RR, Sánchez-Porro C, Ventosa A. (2024). 
 Microbiol Res. 288:127869. [doi: 10.1016/j.micres.2024.127869](https://www.sciencedirect.com/science/article/pii/S0944501324002702?via%3Dihub)
 
-You can see more scripts in the first part of this adventure!! Go and visit [**The_metagenomics_dispatch**](https://github.com/AliciaGR5/The_Metagenomics_dispatch)
+:tropical_drink: You can see more scripts in the first part of this adventure!! Go and visit [**The_metagenomics_dispatch**](https://github.com/AliciaGR5/The_Metagenomics_dispatch) :tropical_drink:
 
 ===========================================================================
 

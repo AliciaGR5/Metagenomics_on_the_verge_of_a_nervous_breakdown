@@ -73,3 +73,7 @@ Bacterioruberin synthesis genes
 
 β-carotene and bacterioruberin synthesis genes
 
+All plots will look like something similar to this:
+
+![FigureS4](https://github.com/user-attachments/assets/c6ac05ca-c85f-467d-816f-f68fed80736e)
+

@@ -18,7 +18,7 @@
 
 **'Altruistic' cooperation among the prokaryotic community of Atlantic salterns assessed by metagenomics.**   
 García-Roldán A, de la Haba RR, Sánchez-Porro C, Ventosa A. (2024). 
-Microbiol Res. 288:127869. [doi: 10.1016/j.micres.2024.127869](https://www.sciencedirect.com/science/article/pii/S0944501324002702?via%3Dihub)<br><br>
+Microbiol Res. 288:127869. [doi: 10.1016/j.micres.2024.127869](https://www.sciencedirect.com/science/article/pii/S0944501324002702?via%3Dihub) <br><br>
 
 :tropical_drink: You can see more scripts in the first part of this adventure!! Go and visit [**The_metagenomics_dispatch**](https://github.com/AliciaGR5/The_Metagenomics_dispatch) :tropical_drink:
 
@@ -71,9 +71,9 @@ Bacterioruberin synthesis genes
 
 ### [10. Bcarot_rub_synth.R](https://github.com/AliciaGR5/Metagenomics_on_the_verge_of_a_nervous_breakdown/blob/main/09.%20Bcarot_rub_synth.R)
 
-β-carotene and bacterioruberin synthesis genes
+β-carotene and bacterioruberin synthesis genes <br><br>
 
 All plots will look like something similar to this:
 
-![FigureS4](https://github.com/user-attachments/assets/c6ac05ca-c85f-467d-816f-f68fed80736e)
+<img src="https://github.com/user-attachments/assets/c6ac05ca-c85f-467d-816f-f68fed80736e" width="300"/>
 

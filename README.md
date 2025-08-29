@@ -39,7 +39,7 @@ This script is designed to change the name of all your bins so you can organise 
 
 It is perfect for SqueezeMeta (v1.6.2post3) SQM_project/results/bins folder.
 
-You will need a directory.txt (with the names of the directory) and a samples.txt (with the names of the samples or the names you want to put as a prefix in your new bins)
+You will need a directory.txt (with the names of the directory) and a samples.txt (with the names of the samples or the names you want to put as a prefix in your new bins).
 
 ===========================================================================
 

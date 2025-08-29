@@ -23,8 +23,9 @@ Microbiol Res. 288:127869. <br>
 
 <div align="center">
 :tropical_drink: You can see more scripts in the first part of this adventure!! Go and visit :tropical_drink: <br> 
-[**The_metagenomics_dispatch**](https://github.com/AliciaGR5/The_Metagenomics_dispatch)
+<a href="https://github.com/AliciaGR5/The_Metagenomics_dispatch"><strong>The_metagenomics_dispatch</strong></a>
 </div>
+
 ===========================================================================
 
 ### [01. Change_name.sh](https://github.com/AliciaGR5/Metagenomics_on_the_verge_of_a_nervous_breakdown/blob/main/01.%20Change_name.sh)
